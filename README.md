@@ -1,6 +1,8 @@
+![LinkedIn banner (7)](https://user-images.githubusercontent.com/87313707/173369005-e3177bab-5bf6-4e82-9041-8d0647de02c4.png)
+
 <h1 align="center">Hi 👋, I'm Chethan Patel P N</h1>
 <h3 align="center">A Passionate Coder</h3>
-<img src="https://drive.google.com/file/d/14-NE1c4nuZo2Xx_Gc1ooy03PbYvjSLH_/view?usp=sharing" alt="CodingIsFun" width="2000" height="600">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethanpatel&label=Profile%20views&color=0e75b6&style=flat" alt="chethanpatel" /> </p>
 
