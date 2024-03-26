@@ -1,4 +1,4 @@
-![LinkedIn banner (7)](https://user-images.githubusercontent.com/87313707/173369005-e3177bab-5bf6-4e82-9041-8d0647de02c4.png)
+![LinkedIn banner (7)](https://media.licdn.com/dms/image/D5616AQGkCwuy3h5aWg/profile-displaybackgroundimage-shrink_350_1400/0/1698733447545?e=1717027200&v=beta&t=CmxY4oosV3W3sNXqMwpTxOpuqw0QtAaZouTJbXC3WgE)
 <h1 align="center">Hi 👋, I'm Chethan Patel P N</h1>
 <h3 align="center">A Passionate Coder</h3>
 
