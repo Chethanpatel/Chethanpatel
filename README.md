@@ -1,4 +1,4 @@
-![LinkedIn banner (7)](https://media.licdn.com/dms/image/D5616AQGkCwuy3h5aWg/profile-displaybackgroundimage-shrink_350_1400/0/1698733447545?e=1717027200&v=beta&t=CmxY4oosV3W3sNXqMwpTxOpuqw0QtAaZouTJbXC3WgE)
+![LinkedIn banner (7)](https://media.licdn.com/dms/image/D5616AQHI8Ej0Tpa5Zw/profile-displaybackgroundimage-shrink_350_1400/0/1718692781082?e=1724284800&v=beta&t=R0zd6s8NdiNfiIyYkkxfd0A2yoL6YGi6U2a6jgTxvBQ)
 <h1 align="center">Hi 👋, I'm Chethan Patel P N</h1>
 <h3 align="center">A Passionate Coder</h3>
 
