@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/chethan__patel" target="blank"><img src="https://img.shields.io/twitter/follow/chethan__patel?logo=twitter&style=for-the-badge" alt="chethan__patel" /></a> </p>
 
-- 🔭 I’m currently working on **Elevate - Your AlgoSkill Tracker**
+- 🔭 I’m currently working on **Unmasking Telecom Frauds**
 
-- 🌱 I’m currently learning **React Native, Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chethanpatel](https://github.com/Chethanpatel)
 
