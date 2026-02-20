@@ -1,4 +1,4 @@
-![LinkedIn banner](https://media.licdn.com/dms/image/v2/D5616AQHI8Ej0Tpa5Zw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718692781082?e=1756944000&v=beta&t=KJIvRShMGQ_UEDPDEQfF7lYTPk_ubdFZNihZtG-Kfrk)
+![LinkedIn banner](https://media.licdn.com/dms/image/v2/D5616AQHI8Ej0Tpa5Zw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718692781082?e=1773273600&v=beta&t=gbKXAHooUSjdTqhsNZkE3uvH_D72MRLKsJGLivA9NcM)
 <h1 align="center">Hello👋, I'm Chethan Patel</h1>
 <h3 align="center">Data Scientist | Python, Machine Learning, NLP | Unmasking Telecom Frauds</h3>
 
