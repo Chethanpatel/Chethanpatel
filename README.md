@@ -1,133 +1,140 @@
-![LinkedIn banner](https://media.licdn.com/dms/image/v2/D5616AQHI8Ej0Tpa5Zw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718692781082?e=1773273600&v=beta&t=gbKXAHooUSjdTqhsNZkE3uvH_D72MRLKsJGLivA9NcM)
-<h1 align="center">Hello👋, I'm Chethan Patel</h1>
-<h3 align="center">Data Scientist | Python, Machine Learning, NLP | Unmasking Telecom Frauds</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chethanpatel&label=Profile%20views&color=0e75b6&style=flat" alt="chethanpatel" /> </p>
+<!-- Typing SVG banner -->
+<a href="https://github.com/Chethanpatel">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Chethan+Patel+%F0%9F%91%8B;Data+Scientist+%40+Gojek+(GoTo+Group);ML+%26+Optimization+%7C+Open-Source+Author;I+ship+production+ML+%26+open-source+tools" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/chethan__patel" target="blank"><img src="https://img.shields.io/twitter/follow/chethan__patel?logo=twitter&style=for-the-badge" alt="chethan__patel" /></a> </p>
+# Chethan Patel P N
 
-- 🔭 I’m currently working on **Unmasking Telecom Frauds**
+### Data Scientist | ML &amp; Optimization | Open-Source Author
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Chethanpatel](https://github.com/Chethanpatel)
-
-- 💬 Ask me about **Algorithms, Data Structures, Computer Networks and Protocols, Machine Learning and DBMS.**
-
-- 📫 How to reach me **helpfromchethan@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAE81MTtbGY/3hBg5j2DNkTH277sIn5mHw/view?utm_content=DAE81MTtbGY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAE81MTtbGY/3hBg5j2DNkTH277sIn5mHw/view?utm_content=DAE81MTtbGY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/chethanpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/chethanpatel" height="30" width="40" /></a>
-<a href="https://twitter.com/chethan__patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chethan__patel" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chethanpatelpn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chethanpatelpn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19329911/chethan-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19329911/chethan-patel" height="30" width="40" /></a>
-<a href="https://www.instagram.com/suprabha_putra_chethana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/suprabha_putra_chethana/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/chethanpatel17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/chethanpatel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chethanpatelpn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/chethanpatelpn" height="30" width="40" /></a>
-<a href="https://leetcode.com/chethanpatel305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/chethanpatel305/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/chethanpatel17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/chethanpatel17" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/chethanpatel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Chethanpatel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:chethanpatel100@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://pypi.org/user/chethanpatel/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
 </p>
 
-<h3 align="left">Data Scientist | Machine Learning | Recommendation Systems</h3>
+<img src="https://komarev.com/ghpvc/?username=Chethanpatel&label=Profile%20views&color=2F81F7&style=flat" alt="Profile views" />
 
-<h4 align="left">Programming Languages</h4>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-  </a>
+</div>
+
+---
+
+## 🧠 About Me
+
+Data Scientist at **Gojek (GoTo Group)** in Bengaluru, building **production ML** for pricing, fraud detection, and large-scale optimization. Previously an Associate Engineer (Data Science) at **Mobileum**.
+
+- 🔭 I work end-to-end: framing the problem, modeling, evaluation (A/B testing &amp; offline policy evaluation), and shipping to production.
+- ⚙️ I love turning slow, expensive workflows into fast, dependency-light tools — and open-sourcing them.
+- 📦 Author of [`ipatel`](https://pypi.org/project/ipatel/) and [`maxquery`](https://pypi.org/project/maxquery/) on PyPI.
+- 🎓 B.E. in Computer Science, BMS Institute of Technology &amp; Management.
+- 💬 Ask me about ML systems, causal inference, graph methods, and optimization.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,bash" alt="Languages" />
 </p>
 
-<h4 align="left">Databases & Query Engines</h4>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="45"/>
-  </a>
-  <a href="https://duckdb.org/" target="_blank" rel="noreferrer">
-    <img src="https://duckdb.org/images/logo-dl/DuckDB_Logo-horizontal.svg" width="80" height="45"/>
-  </a>
+**ML &amp; Data Science**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2C8C3C?style=flat&logoColor=white)
+![Isotonic Regression](https://img.shields.io/badge/Isotonic%20Regression-5C6BC0?style=flat&logoColor=white)
+![Causal Inference](https://img.shields.io/badge/Causal%20Inference-7E57C2?style=flat&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-009688?style=flat&logoColor=white)
+![Offline Policy Eval](https://img.shields.io/badge/Offline%20Policy%20Evaluation-455A64?style=flat&logoColor=white)
+
+**Big Data &amp; Engineering**
+
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+
+**Graph &amp; Optimization**
+
+![NetworkX](https://img.shields.io/badge/NetworkX-2C5BB4?style=flat&logoColor=white)
+![igraph](https://img.shields.io/badge/igraph-A4123F?style=flat&logoColor=white)
+![Node2Vec](https://img.shields.io/badge/Node2Vec-3949AB?style=flat&logoColor=white)
+![GraphFrames](https://img.shields.io/badge/GraphFrames-E25A1C?style=flat&logoColor=white)
+![PuLP](https://img.shields.io/badge/PuLP%20(LP%2FMILP)-1B5E20?style=flat&logoColor=white)
+
+**Tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git" alt="Tooling" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white" alt="JIRA" />
 </p>
 
-<h4 align="left">Data Science & Machine Learning</h4>
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/>
-  </a>
-</p>
+---
 
-<h4 align="left">Deep Learning & Casual ML</h4>
-<p align="left">
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
-  </a>
-</p>
+## 🚀 Featured Open-Source
 
-<h4 align="left">Recommendation Systems & Advanced ML</h4>
-<p align="left">
-  • Collaborative Filtering <br>
-  • Content-Based Filtering <br>
-  • Matrix Factorization <br>
-  • Embeddings <br>
-  • Ranking & Personalization <br>
-</p>
+### 📦 [`ipatel`](https://github.com/Chethanpatel/ipatel) — Fast, offline IP enrichment
 
-<h4 align="left">Mathematics & Statistics</h4>
-<p align="left">
-  • Linear Algebra <br>
-  • Probability Theory <br>
-  • Statistics & Hypothesis Testing <br>
-  • Calculus (Optimization, Gradients) <br>
-  • Bayesian Thinking <br>
-</p>
+[![PyPI version](https://img.shields.io/pypi/v/ipatel?color=3775A9&label=PyPI&logo=pypi&logoColor=white)](https://pypi.org/project/ipatel/)
+[![Downloads](https://static.pepy.tech/badge/ipatel)](https://pepy.tech/project/ipatel)
+[![Downloads/month](https://static.pepy.tech/badge/ipatel/month)](https://pepy.tech/project/ipatel)
+[![Python](https://img.shields.io/pypi/pyversions/ipatel?logo=python&logoColor=white)](https://pypi.org/project/ipatel/)
 
-<h4 align="left">Big Data</h4>
-<p align="left">
-  • Apache Spark <br>
-  • Data Pipelines <br>
-  • ETL Workflows <br>
-</p>
+Map IP addresses to **ASN + geolocation entirely offline** — no per-request API calls, no API costs, and roughly **5× faster** than network-bound lookups. Ideal for high-volume enrichment in data pipelines.
+📖 Docs: [Chethanpatel.github.io/ipatel](https://Chethanpatel.github.io/ipatel/)
 
-<h4 align="left">Cloud & Deployment</h4>
-<p align="left">
-  • Alibaba Cloud <br>
-  • Model Deployment Basics <br>
-</p>
+### 📦 [`maxquery`](https://github.com/Chethanpatel/maxquery) — MaxCompute SQL query runner
 
-<h4 align="left">Tools & Environment</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-  </a>
-</p>
+[![PyPI version](https://img.shields.io/pypi/v/maxquery?color=3775A9&label=PyPI&logo=pypi&logoColor=white)](https://pypi.org/project/maxquery/)
+[![Downloads](https://static.pepy.tech/badge/maxquery)](https://pepy.tech/project/maxquery)
+[![Downloads/month](https://static.pepy.tech/badge/maxquery/month)](https://pepy.tech/project/maxquery)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chethanpatel&" alt="chethanpatel" /></p>
+A lightweight Python runner to **execute MaxCompute SQL queries on Alibaba Cloud** with a clean, scriptable interface — perfect for embedding cloud queries into Python data workflows.
+
+### 🎯 [`Alloc8Me`](https://alloc8me.streamlit.app) — College selection recommender
+
+[![Streamlit](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://alloc8me.streamlit.app)
+
+A **ranking-based recommendation system** that helps students shortlist and prioritize colleges. Built with Streamlit for a fast, interactive experience.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chethanpatel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chethanpatel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chethanpatel&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🌱 What I'm Working On
+
+- Scaling **offline policy evaluation** and uplift modeling for pricing decisions.
+- Sharpening **graph-based features** (Node2Vec / GraphFrames) for fraud detection.
+- Growing `ipatel` &amp; `maxquery` — issues, PRs, and feedback always welcome!
+
+**Open to:** collaboration on open-source ML/data tooling and interesting optimization problems.
+
+---
+
+<div align="center">
+
+> _"Make it correct, make it fast, make it open."_
+
+⭐️ From [Chethanpatel](https://github.com/Chethanpatel)
+
+</div>
