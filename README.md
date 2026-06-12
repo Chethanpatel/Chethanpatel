@@ -5,11 +5,11 @@
 
 # 👋 Hi, I'm Chethan Patel
 
-### Data Scientist · ML & Optimization · Open-Source Author
+### 📦 Author of [`ipatel`](https://pypi.org/project/ipatel/) — **40K+ downloads** · Data Scientist @ Gojek
 
 <!-- Animated typing roles -->
 <a href="https://github.com/Chethanpatel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=820&lines=Building+production+ML+%40+Gojek+(GoTo+Group);Pricing+%E2%80%A2+Fraud+Detection+%E2%80%A2+Large-scale+Optimization;Author+of+ipatel+%26+maxquery+on+PyPI;Make+it+correct%2C+make+it+fast%2C+make+it+open." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=820&lines=Author+of+ipatel+%E2%80%94+40K%2B+downloads+on+PyPI;Building+production+ML+%40+Gojek+(GoTo+Group);Pricing+%E2%80%A2+Fraud+Detection+%E2%80%A2+Large-scale+Optimization;Make+it+correct%2C+make+it+fast%2C+make+it+open." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -27,14 +27,29 @@
 
 </div>
 
+<!-- ====================== IPATEL DOWNLOADS SPOTLIGHT ====================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F81F7,100:8A2BE2&height=2&section=header" width="100%" alt="divider" />
+
+## 📈 `ipatel` — 40K+ downloads and climbing
+
+<div align="center">
+
+<a href="https://clickpy.clickhouse.com/dashboard/ipatel">
+  <img width="92%" src="https://quickchart.io/chart?w=1000&h=320&bkg=%230D1117&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Jun%2725%22%2C%22Jul%22%2C%22Aug%22%2C%22Sep%22%2C%22Oct%22%2C%22Nov%22%2C%22Dec%22%2C%22Jan%2726%22%2C%22Feb%22%2C%22Mar%22%2C%22Apr%22%2C%22May%22%2C%22Jun%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22ipatel%20%5Cu2014%20downloads%20/%20month%22%2C%22data%22%3A%5B1271%2C505%2C237%2C283%2C182%2C220%2C236%2C5996%2C6821%2C7506%2C7281%2C7299%2C2577%5D%2C%22fill%22%3Atrue%2C%22backgroundColor%22%3AgetGradientFillHelper%28%27vertical%27%2C%20%5B%27rgba%28138%2C43%2C226%2C0.55%29%27%2C%27rgba%2847%2C129%2C247%2C0.05%29%27%5D%29%2C%22borderColor%22%3A%22%232F81F7%22%2C%22borderWidth%22%3A3%2C%22pointBackgroundColor%22%3A%22%23FFCC01%22%2C%22pointRadius%22%3A4%2C%22lineTension%22%3A0.35%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22fontColor%22%3A%22%23c9d1d9%22%2C%22fontSize%22%3A14%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22PyPI%20downloads%20%5Cu00b7%20live%20data%20from%20ClickHouse%22%2C%22fontColor%22%3A%22%238A2BE2%22%2C%22fontSize%22%3A16%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%238b949e%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28139%2C148%2C158%2C0.15%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%238b949e%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28139%2C148%2C158%2C0.15%29%22%7D%7D%5D%7D%7D%7D" alt="ipatel monthly downloads chart" />
+</a>
+
+<br/>
+
+<a href="https://clickpy.clickhouse.com/dashboard/ipatel"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsql-clickhouse.clickhouse.com%2F%3Fuser%3Ddemo%26query%3DSELECT%2520sum%2528count%2529%2520AS%2520downloads%2520FROM%2520pypi.pypi_downloads%2520WHERE%2520project%253D%2527ipatel%2527%2520FORMAT%2520JSON&query=%24.data%5B0%5D.downloads&label=total%20downloads&color=FFCC01&logo=clickhouse&logoColor=black&style=for-the-badge" alt="ipatel total downloads (live)" /></a>
+&nbsp;
+<a href="https://clickpy.clickhouse.com/dashboard/ipatel"><img src="https://img.shields.io/badge/full%20analytics-ClickPy%20dashboard-8A2BE2?style=for-the-badge&logo=clickhouse&logoColor=white" alt="ClickPy dashboard" /></a>
+
+</div>
+
 <!-- ====================== ABOUT ====================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F81F7,100:8A2BE2&height=2&section=header" width="100%" alt="divider" />
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-<table>
-<tr>
-<td width="58%" valign="top">
 
 Data Scientist at **Gojek (GoTo Group)** in Bengaluru, building **production ML** for pricing, fraud detection, and large-scale optimization. Previously Associate Engineer (Data Science) at **Mobileum**.
 
@@ -43,15 +58,6 @@ Data Scientist at **Gojek (GoTo Group)** in Bengaluru, building **production ML*
 - 📦 &nbsp;Author of [`ipatel`](https://pypi.org/project/ipatel/) and [`maxquery`](https://pypi.org/project/maxquery/) on PyPI.
 - 🎓 &nbsp;B.E. in Computer Science, BMS Institute of Technology & Management.
 - 💬 &nbsp;Ask me about **ML systems, causal inference, graph methods, and optimization**.
-
-</td>
-<td width="42%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chethanpatel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=8A2BE2" width="100%" alt="GitHub stats" />
-
-</td>
-</tr>
-</table>
 
 <!-- ====================== TECH STACK ====================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F81F7,100:8A2BE2&height=2&section=header" width="100%" alt="divider" />
@@ -148,26 +154,6 @@ A clean resume builder with a live A4 preview and an **in-browser open-source LL
 </td>
 </tr>
 </table>
-
-<!-- ====================== STATS ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F81F7,100:8A2BE2&height=2&section=header" width="100%" alt="divider" />
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chethanpatel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2F81F7" alt="Top languages" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Chethanpatel&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=8A2BE2&currStreakLabel=2F81F7" alt="GitHub streak" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chethanpatel&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=8A2BE2&point=ffffff&area=true" alt="Activity graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chethanpatel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-
-</div>
 
 <!-- ====================== WORKING ON ====================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F81F7,100:8A2BE2&height=2&section=header" width="100%" alt="divider" />
